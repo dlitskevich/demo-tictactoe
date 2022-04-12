@@ -1,4 +1,4 @@
-package com.example;
+package com.tictactoe;
 
 import lib.RenderTTT;
 
